@@ -71,3 +71,5 @@ Recomendación de desarrollador que el módulo genera para un ticket (Meta 3).
 | `id_desarrollador` | Integer | Desarrollador recomendado por el sistema (relación con Desarrollador). |
 | `puntaje` | Float | Nivel de confianza o puntaje con que el módulo respalda la recomendación. |
 | `aceptada` | Boolean | Indica si el coordinador aceptó la sugerencia (la decisión final es humana). |
+
+> **Ajuste surgido del modelado del proceso (Entrega 4):** al diagramar el BPMN aparece la necesidad de guardar por qué el Coordinador rechaza una sugerencia. Se agrega el campo `motivo_rechazo` (String) a **SugerenciaAsignacion**, que alimenta el indicador de calidad de las sugerencias.
