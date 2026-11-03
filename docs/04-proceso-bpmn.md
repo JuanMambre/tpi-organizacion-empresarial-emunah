@@ -17,6 +17,10 @@ Por su extensión, el diagrama se presenta en dos partes unidas por el evento de
 
 ![BPMN parte 2](../diagramas/bpmn_parte2_desarrollo_cierre.png)
 
+## Alcance del modelo
+
+El diagrama representa el ciclo de vida de **un ticket**. El resumen diario de la HU-03 se **genera** dentro de este flujo (tarea «Generar propuesta de horas y resumen diario»), pero su **consulta** por parte del Project Manager es un proceso diario aparte, que se dispara al comienzo de cada jornada (evento de inicio de temporizador) y no depende de un ticket en particular. Por eso no aparece como tarea en este modelo.
+
 ## Participantes
 
 | Tipo | Elemento | Rol en el proceso |
