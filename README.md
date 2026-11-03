@@ -9,7 +9,7 @@ Tecnicatura Universitaria en Programación a Distancia · Universidad Tecnológi
 | **Comisión** | 10 |
 | **Docente titular** | Prof. Gabriela Martínez |
 | **Tutor** | Cdor. Guillermo Carvajal |
-| **Tablero de gestión** | [GitHub Projects · Backlog TPI Emunah](__URL_TABLERO__) |
+| **Tablero de gestión** | [GitHub Projects · Backlog TPI Emunah](https://github.com/users/JuanMambre/projects/1) |
 
 ## Descripción del sistema
 
